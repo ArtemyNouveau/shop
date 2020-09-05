@@ -1,3 +1,3 @@
 # shop
 
-Who cares about md in study project
+Надо бы докер прикрутить и выложить
